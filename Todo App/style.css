@@ -1,0 +1,33 @@
+body{
+    padding: 0px;
+    margin: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    background-color:blueviolet;
+    justify-content: center;
+
+}
+
+.heading{
+    color:black;
+    font-size: 100px;
+
+}
+.search{
+    height: 50px;
+    width:600px;
+    font-size: medium;
+}
+#button{
+    height: 50px;
+    width:100px;
+    color: black;
+    font-size: large;
+    text-align: center;
+}
+.list{
+    text-align:left;
+    justify-content: space-between;
+    font-size: 30px;
+    font-weight: 200;
+}
